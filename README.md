@@ -26,6 +26,3 @@ Sistem mampu beradaptasi dengan fluktuasi trafik dan mengurangi rata-rata waktu 
 2.  Dhio Rahmansyah
 3.  Muhammad Irsyaddhia F.
 4.  **Muhfi Fawwaz Rizqullah**
-
----
-*Fakultas Ilmu Komputer - Universitas Brawijaya (2025)*
